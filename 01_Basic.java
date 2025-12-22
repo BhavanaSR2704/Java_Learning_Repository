@@ -4,3 +4,7 @@ class Firstclass{
         System.out.println("Hello World");
     }
 }
+
+
+
+//=================================O/P:- Hello World
