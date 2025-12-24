@@ -1,1 +1,15 @@
+-->A data type tells Java what type of value a variable can store.
 
+Java data types are divided into 2 types:
+--->Primitive Data Types:
+  These store simple values and are builtin like:
+  *int
+  *float
+  *double
+  *char
+--->Non-Primitive Data Types:
+  These store complex values and are created by the user like:  
+  *String
+  *Arrays
+  *Classes
+  *Objects
