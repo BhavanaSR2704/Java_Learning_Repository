@@ -14,3 +14,8 @@ public class primitive_data_type {
     
 }
 
+//=============================O/P:
+// 20
+// 85
+// A
+// true
