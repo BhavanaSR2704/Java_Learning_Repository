@@ -5,3 +5,8 @@ public class Nonprimitive_data_type {
         System.out.println(name);
     }
 }
+
+
+
+//======================================o/p:-
+//Bhavana
