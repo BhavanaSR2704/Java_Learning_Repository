@@ -1,1 +1,9 @@
+A variable is a container used to store data.
 
+Syntax:
+[datatype variableName = value;]
+
+Types of Variables:
+*Local Variable
+*Instance Variable
+*Static Variable
