@@ -15,7 +15,10 @@ public class Switch {
         // else{
         //     System.out.println("Invalid button");
         // }
-        switch(button){
+        //USING SWITCH STATEMENT ===============================================
+                                                             //               ||
+                                                    //                 <======||
+        switch(button){                                                       
             case 1: System.out.println("Hello");
             break;
             case 2:System.out.println("Namaskara");
