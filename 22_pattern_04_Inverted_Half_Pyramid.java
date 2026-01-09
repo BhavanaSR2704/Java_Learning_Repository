@@ -1,4 +1,4 @@
-public class Inverted_Half_pyramid {
+public class Inverted_Half_Pyramid {
     public static void main(String[] args) {
         int n=4;
         //outer loop
@@ -12,3 +12,8 @@ public class Inverted_Half_pyramid {
     }
 }
 
+//============================>O/P:-
+****
+***
+**
+*
