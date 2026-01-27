@@ -17,3 +17,15 @@ public class Function_Sum_of_Odd_no {
    }   
 }
 
+
+//===============================================>O/P:-
+7
+16
+  
+if n=7
+  (odd num = 1,3,5,7)
+  sum=0
+  sum=1
+  sum=4
+  sum=9
+  sum=16
