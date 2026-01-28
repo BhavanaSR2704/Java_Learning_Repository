@@ -18,3 +18,8 @@ public class Function_Greater_of_Two_no  {
       System.out.println("Greater Number is:"+result);
    }   
 }
+
+//====================================>O/P:-
+8
+10
+Greater Number is:10
