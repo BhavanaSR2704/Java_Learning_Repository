@@ -11,3 +11,8 @@ public class Function_circumference_of_circle {
       System.out.println(getCircumference(radius));
    }   
 }
+
+
+//====================================================================>O/P:-
+4
+25.12
