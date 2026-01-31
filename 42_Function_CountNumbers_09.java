@@ -34,3 +34,16 @@ public class CountNumbers {
         countNumbers();   // function call
     }
 }
+
+
+//==============================================================>O/P:-
+Enter a number: 6
+Do you want to continue? (y/n): y
+Enter a number: 0
+Do you want to continue? (y/n): y
+Enter a number: -9
+Do you want to continue? (y/n): n
+
+Count of Positive numbers = 1
+Count of Negative numbers = 1
+Count of Zeros = 1
