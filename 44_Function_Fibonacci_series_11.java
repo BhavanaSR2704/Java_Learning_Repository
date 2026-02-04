@@ -30,3 +30,8 @@ public class Function_Fibonacci_series  {
         fibonacci(n);   // function call
     }
 }
+
+
+//================================================================>O/P:-
+6
+0 1 1 2 3 5 
