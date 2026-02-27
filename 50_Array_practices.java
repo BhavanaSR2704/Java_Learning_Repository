@@ -20,3 +20,11 @@ public class Arrays {
    }
 }
 
+//=========================================================>O/P:-
+3
+BHAVANA
+BHANU
+DIMPLE
+name 1 is : BHAVANA
+name 2 is : BHANU
+name 3 is : DIMPLE
