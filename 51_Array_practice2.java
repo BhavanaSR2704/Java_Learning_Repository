@@ -32,3 +32,13 @@ public class array3{
       
    }
 }
+
+
+//========================================================>O/P:-
+4
+6
+8
+10
+3
+Largest number is : 10
+Smallest number is : 3
