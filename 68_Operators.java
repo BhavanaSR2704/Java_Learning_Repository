@@ -24,3 +24,34 @@ Symbols that tells compailer to perform some operation
     b=a++;  //b=10
     System.out.println(a);  //a=11
     System.out.println(b);  //b=10
+
+
+  ** Predecrement
+  =>--a
+  1.Change value
+  2.use value
+  Example:-
+    int a=10;
+    int b=0;
+    b=--a;  //b=9
+    System.out.println(a);  //a=9
+    System.out.println(b);  //b=9
+
+
+  ** Postdecrement
+  =>a--
+  1.Change value
+  2.use value
+  Example:-
+    int a=10;
+    int b=0;
+    b=a--;  //b=10
+    System.out.println(a);  //a=9
+    System.out.println(b);  //b=10
+
+
+Relational operation
+  * (==,!=,>,<,<=,>=)
+Logical operators
+  * (&&,||,!)
+  
