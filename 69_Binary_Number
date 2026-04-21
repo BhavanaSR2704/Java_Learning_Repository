@@ -1,0 +1,22 @@
+Binary number system base2
+4 to Binary
+  2 |4----->0
+  2 |2----->0
+    |1----->1
+  i.e(1 0 0)2=(4)10
+
+
+1 0 1 to decimal
+    1   0  1
+  2^2+2^1+2^0
+  ------------
+  4   +  0 + 1----------------->(5)10
+
+
+  Bitwise operators
+  1.&(Binary And)
+  2.|(OR)
+  3.^(XOR)
+  4.~(Complement)
+  5.<<(Left shift)
+  6.>>(Right shift)
