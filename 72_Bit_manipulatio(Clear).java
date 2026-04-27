@@ -4,6 +4,7 @@ Operation:AND with Not
 
 
 Code:-
+  
 
   public class Bitmanipulation_clear{
     public static void main(String[] args) {
