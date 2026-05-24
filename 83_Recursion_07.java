@@ -1,6 +1,4 @@
-
-
-//Print X^n(Stack height=long)
+//Print X^n(Stack height=logn)
 
 
 
@@ -12,10 +10,10 @@ public class Recursion_7 {
         if(x==0){ //base case 2
             return 0;
         }
-       if(n%2==0){
+       if(n%2==0){// for even
         return calpower(x, n/2) * calpower(x,n/2);
        }
-       else{
+       else{ // for odd
         return calpower(x, n/2) * calpower(x,n/2)*x;
        }
     }
@@ -25,3 +23,4 @@ public class Recursion_7 {
         System.out.println(ans);
     }
 }
+
